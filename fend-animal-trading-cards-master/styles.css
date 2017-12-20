@@ -1,0 +1,18 @@
+/* add your CSS here */
+
+.card {
+    border: 2px solid rgb(206, 204, 204);
+    padding: 10px;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.content {
+    border: 2px solid rgb(206, 204, 204);
+    padding: 5px;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0px;
+}
